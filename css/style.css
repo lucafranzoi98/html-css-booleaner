@@ -44,6 +44,10 @@ ul{
     margin-left: 20px;
 }
 
+table{
+    border-spacing: 0;
+}
+
 thead{
     color: white;
     background-color: deepskyblue;
