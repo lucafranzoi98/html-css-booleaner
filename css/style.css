@@ -32,6 +32,28 @@ a{
     color: #2596be;
 }
 
-section{
+.section{
     margin-bottom: 20px;
+}
+
+.highlight{
+    background-color: yellow;
+}
+
+thead{
+    color: white;
+    background-color: deepskyblue;
+    text-align: left;
+}
+
+.small-cl{
+    width: 25%;
+}
+
+#large-cl{
+    width: 50%;
+}
+
+.row-bg{
+    background-color: aquamarine;
 }
