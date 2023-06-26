@@ -14,3 +14,24 @@ header{
     background-color: #2596be;
     background-image: url(/img/pattern.png);
 }
+
+main{
+    margin: 10px;
+}
+
+.description{
+    font-size: 12px;
+}
+
+.grey-text{
+    color: grey;
+}
+
+a{
+    text-decoration: none;
+    color: #2596be;
+}
+
+section{
+    margin-bottom: 20px;
+}
